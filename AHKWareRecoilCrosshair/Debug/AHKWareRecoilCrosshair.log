@@ -1,0 +1,8 @@
+﻿  Main.cpp
+c:\users\c0\source\repos\ahkwarerecoilcrosshair\ahkwarerecoilcrosshair\main.cpp(42): warning C4244: '=': conversion from 'LONG' to 'SHORT', possible loss of data
+c:\users\c0\source\repos\ahkwarerecoilcrosshair\ahkwarerecoilcrosshair\main.cpp(43): warning C4244: '=': conversion from 'LONG' to 'SHORT', possible loss of data
+c:\users\c0\source\repos\ahkwarerecoilcrosshair\ahkwarerecoilcrosshair\main.cpp(72): warning C4244: '=': conversion from 'LONG' to 'SHORT', possible loss of data
+c:\users\c0\source\repos\ahkwarerecoilcrosshair\ahkwarerecoilcrosshair\main.cpp(73): warning C4244: '=': conversion from 'LONG' to 'SHORT', possible loss of data
+c:\users\c0\source\repos\ahkwarerecoilcrosshair\ahkwarerecoilcrosshair\main.cpp(24): warning C4101: 'activewindow': unreferenced local variable
+  AHKWareRecoilCrosshair.vcxproj -> C:\Users\C0\source\repos\AHKWareRecoilCrosshair\Debug\AHKWareRecoilCrosshair.exe
+  AHKWareRecoilCrosshair.vcxproj -> C:\Users\C0\source\repos\AHKWareRecoilCrosshair\Debug\AHKWareRecoilCrosshair.pdb (Partial PDB)
