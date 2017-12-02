@@ -33,16 +33,16 @@ int main()
 	
 	//Retrive all settings from ini file
 	int recenterkey = settings.GetLongValue("Keys"		, "recenterkey"	, VK_F1);
-	int intensity	= settings.GetLongValue("General"	, "speed"		, 1);
-	int delay		= settings.GetLongValue("General"	, "delay"		, 20);
+	int intensity	= settings.GetLongValue("General"	, "speed"	, 1);
+	int delay	= settings.GetLongValue("General"	, "delay"	, 20);
 	int stoptime	= settings.GetLongValue("General"	, "stoptime"	, 150);
-	int Tspray		= settings.GetLongValue("Sprays"	, "Tspray"		, 1);
-	int ttTdcL		= settings.GetLongValue("Sprays"	, "tspraytimeR"	, 30);
-	int ttTdcR		= settings.GetLongValue("Sprays"	, "tspraytimeL"	, 30);
+	int Tspray	= settings.GetLongValue("Sprays"	, "Tspray"	, 1);
+	int ttTdcL	= settings.GetLongValue("Sprays"	, "tspraytimeR"	, 30);
+	int ttTdcR	= settings.GetLongValue("Sprays"	, "tspraytimeL"	, 30);
 	int chcolor_r	= settings.GetLongValue("Crosshair"	, "chcolor_r"	, 255);
 	int chcolor_g	= settings.GetLongValue("Crosshair"	, "chcolor_g"	, 0);
 	int chcolor_b	= settings.GetLongValue("Crosshair"	, "chcolor_b"	, 0);
-	int chsize		= settings.GetLongValue("Crosshair"	, "chsize"		, 3);
+	int chsize	= settings.GetLongValue("Crosshair"	, "chsize"	, 3);
 
 	//Initializing some varibles before running the loop
 	GetCursorPos(&mp);
